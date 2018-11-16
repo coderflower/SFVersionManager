@@ -22,7 +22,7 @@ pod 'SFVersionManager'
 
 ## Author
 
-chriscaixx, caiflower20@163.com
+Coder.flower, coder.flower@gmail.com
 
 ## License
 

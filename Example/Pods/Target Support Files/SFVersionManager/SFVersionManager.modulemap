@@ -1,0 +1,6 @@
+framework module SFVersionManager {
+  umbrella header "SFVersionManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

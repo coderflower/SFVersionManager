@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SFVersionManager'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SFVersionManager.'
+  s.summary          = 'iOS 版本更新'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+从 App Store 获取当前 App 最新版本, 如果有最新版本则提示用户更新
                        DESC
 
-  s.homepage         = 'https://github.com/chriscaixx/SFVersionManager'
+  s.homepage         = 'https://github.com/coderflower/SFVersionManager.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'chriscaixx' => 'caiflower20@163.com' }
-  s.source           = { :git => 'https://github.com/chriscaixx/SFVersionManager.git', :tag => s.version.to_s }
+  s.author           = { 'Coder.flower' => 'coder.flower@gmail.com' }
+  s.source           = { :git => 'https://github.com/coderflower/SFVersionManager.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

@@ -1,0 +1,16 @@
+PODS:
+  - SFVersionManager (0.1.0)
+
+DEPENDENCIES:
+  - SFVersionManager (from `../`)
+
+EXTERNAL SOURCES:
+  SFVersionManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SFVersionManager: 06b6d7adea5fe791cef7b4145f1133abf234d72c
+
+PODFILE CHECKSUM: b42faa90df396cc08356662a987c309339f1e26b
+
+COCOAPODS: 1.6.0.beta.2

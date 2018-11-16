@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SFVersionManager_Example' do
+  pod 'SFVersionManager', :path => '../'
+
+  target 'SFVersionManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

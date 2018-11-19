@@ -1,5 +1,5 @@
 PODS:
-  - SFVersionManager (0.1.0)
+  - SFVersionManager (0.1.1)
 
 DEPENDENCIES:
   - SFVersionManager (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SFVersionManager: 06b6d7adea5fe791cef7b4145f1133abf234d72c
+  SFVersionManager: fae06c2644fce12f9b3990e8457b96157885b0dc
 
 PODFILE CHECKSUM: b42faa90df396cc08356662a987c309339f1e26b
 

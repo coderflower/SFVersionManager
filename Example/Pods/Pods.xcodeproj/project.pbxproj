@@ -40,8 +40,8 @@
 		04E09CAEED22A4D7963469F577355D4E /* Pods-SFVersionManager_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SFVersionManager_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		1301FBFF0FA94CB80B87A3C5B65D7763 /* Pods-SFVersionManager_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SFVersionManager_Example-Info.plist"; sourceTree = "<group>"; };
 		29F8D26999A95440D05CB17751EA8C38 /* SFVersionManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SFVersionManager.swift; path = SFVersionManager/Classes/SFVersionManager.swift; sourceTree = "<group>"; };
-		301DB0E67CD9F644D534E4EC53781083 /* Pods_SFVersionManager_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SFVersionManager_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		31C9D143002C3E6D08A40908C0AA0CA8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		301DB0E67CD9F644D534E4EC53781083 /* Pods_SFVersionManager_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SFVersionManager_Tests.framework; path = "Pods-SFVersionManager_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		31C9D143002C3E6D08A40908C0AA0CA8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		3E73D2AC2E6621389C1DADF3DF2E175C /* Pods-SFVersionManager_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SFVersionManager_Example-dummy.m"; sourceTree = "<group>"; };
 		3E92B415328ECF1C3A66E68315D699DC /* Pods-SFVersionManager_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SFVersionManager_Tests-dummy.m"; sourceTree = "<group>"; };
 		42567BF2969C49F8FDA8F7C56B15ACE3 /* SFVersionManager-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SFVersionManager-Info.plist"; sourceTree = "<group>"; };
@@ -53,19 +53,19 @@
 		6F05F97CBC9568D2D8703701C9531FAD /* Pods-SFVersionManager_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SFVersionManager_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		711DA716D4E7131BDB8EFE710BCF0BBB /* Pods-SFVersionManager_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SFVersionManager_Example-umbrella.h"; sourceTree = "<group>"; };
 		772911E08DC43F3E755454830C935FDE /* SFVersionManager.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SFVersionManager.xcconfig; sourceTree = "<group>"; };
-		817E3F7305632DF18C650CD0D3327868 /* Pods_SFVersionManager_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SFVersionManager_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		817E3F7305632DF18C650CD0D3327868 /* Pods_SFVersionManager_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SFVersionManager_Example.framework; path = "Pods-SFVersionManager_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		82D714AA067661E23EB6C0159BD9E938 /* Pods-SFVersionManager_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SFVersionManager_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		9D694ADF84A028CC3CB970558BD9EB97 /* Pods-SFVersionManager_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SFVersionManager_Tests-Info.plist"; sourceTree = "<group>"; };
 		A9FC167162AEE47A7269D3DCD1BEE41F /* Pods-SFVersionManager_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SFVersionManager_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		B2F8137FD4059A783683B18CEDC913D0 /* SFVersionManager-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SFVersionManager-prefix.pch"; sourceTree = "<group>"; };
-		B36AB396275697EEE1A5B13BA8A38FE3 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		B36AB396275697EEE1A5B13BA8A38FE3 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		BEAA3A33B17092DA674D98E7BBC9EE2D /* Pods-SFVersionManager_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SFVersionManager_Example.modulemap"; sourceTree = "<group>"; };
 		C5B44FCE6E45D24E9067D8567DD595E3 /* Pods-SFVersionManager_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SFVersionManager_Tests-umbrella.h"; sourceTree = "<group>"; };
 		C9757F32385EE91A6B3CEFC40859B833 /* Pods-SFVersionManager_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SFVersionManager_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		E334A583D2A4E57D60A440C68E3B3297 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		EB6EE58F1D03C71C57679FF3874F3E66 /* SFVersionManager.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SFVersionManager.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F16138400A0BC29D85B54965376A6ECA /* SFVersionManager.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = SFVersionManager.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		E334A583D2A4E57D60A440C68E3B3297 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		EB6EE58F1D03C71C57679FF3874F3E66 /* SFVersionManager.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SFVersionManager.framework; path = SFVersionManager.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F16138400A0BC29D85B54965376A6ECA /* SFVersionManager.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = SFVersionManager.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		F43F186BD9DEB52C4BBE52AB96FA2361 /* Pods-SFVersionManager_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SFVersionManager_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		FA049C5AB2101A58047F55BD49C3E34B /* SFVersionManager.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SFVersionManager.modulemap; sourceTree = "<group>"; };
 		FF9A0EF468C95162B0B6EDB4078091BB /* Pods-SFVersionManager_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SFVersionManager_Tests.modulemap"; sourceTree = "<group>"; };
@@ -535,6 +535,69 @@
 			};
 			name = Debug;
 		};
+		612576BF9E6A7A7B2DDBBF5E5EAA5B3B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 772911E08DC43F3E755454830C935FDE /* SFVersionManager.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/SFVersionManager/SFVersionManager-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SFVersionManager/SFVersionManager-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/SFVersionManager/SFVersionManager.modulemap";
+				PRODUCT_MODULE_NAME = SFVersionManager;
+				PRODUCT_NAME = SFVersionManager;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		6A184B79779B5BA61E3C8F270B24D74E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 772911E08DC43F3E755454830C935FDE /* SFVersionManager.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/SFVersionManager/SFVersionManager-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SFVersionManager/SFVersionManager-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/SFVersionManager/SFVersionManager.modulemap";
+				PRODUCT_MODULE_NAME = SFVersionManager;
+				PRODUCT_NAME = SFVersionManager;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		6A949A208667F02694AF29D5DCC8D4BF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -588,42 +651,12 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
-		};
-		7CA4CAF52F1CCD146700D0B4BEDFFBF8 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 772911E08DC43F3E755454830C935FDE /* SFVersionManager.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/SFVersionManager/SFVersionManager-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/SFVersionManager/SFVersionManager-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/SFVersionManager/SFVersionManager.modulemap";
-				PRODUCT_MODULE_NAME = SFVersionManager;
-				PRODUCT_NAME = SFVersionManager;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
 		};
 		9788B9200EFC1D21B7B3553E41763627 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -691,38 +724,6 @@
 			};
 			name = Debug;
 		};
-		FBEF5B15140B26CD29E6B968C43FA4C8 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 772911E08DC43F3E755454830C935FDE /* SFVersionManager.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/SFVersionManager/SFVersionManager-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/SFVersionManager/SFVersionManager-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/SFVersionManager/SFVersionManager.modulemap";
-				PRODUCT_MODULE_NAME = SFVersionManager;
-				PRODUCT_NAME = SFVersionManager;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -747,8 +748,8 @@
 		8511FD005F1853B738E6828B6392CF4E /* Build configuration list for PBXNativeTarget "SFVersionManager" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7CA4CAF52F1CCD146700D0B4BEDFFBF8 /* Debug */,
-				FBEF5B15140B26CD29E6B968C43FA4C8 /* Release */,
+				6A184B79779B5BA61E3C8F270B24D74E /* Debug */,
+				612576BF9E6A7A7B2DDBBF5E5EAA5B3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

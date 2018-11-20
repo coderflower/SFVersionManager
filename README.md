@@ -1,6 +1,6 @@
 # SFVersionManager
 
-[![CI Status](https://img.shields.io/travis/chriscaixx/SFVersionManager.svg?style=flat)](https://travis-ci.org/chriscaixx/SFVersionManager)
+[![CI Status](https://img.shields.io/travis/coderflower/SFVersionManager.svg?style=flat)](https://travis-ci.org/coderflower/SFVersionManager)
 [![Version](https://img.shields.io/cocoapods/v/SFVersionManager.svg?style=flat)](https://cocoapods.org/pods/SFVersionManager)
 [![License](https://img.shields.io/cocoapods/l/SFVersionManager.svg?style=flat)](https://cocoapods.org/pods/SFVersionManager)
 [![Platform](https://img.shields.io/cocoapods/p/SFVersionManager.svg?style=flat)](https://cocoapods.org/pods/SFVersionManager)
